@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
     private String ans;
     private  int score =0;
     private  int index=0;
+
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
